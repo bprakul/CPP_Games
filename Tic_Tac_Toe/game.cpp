@@ -121,7 +121,7 @@ bool check(char grid[3][3])
     }
 
     tie = true;
-    return false;
+    return true;
 }
 
 int main()
